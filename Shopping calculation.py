@@ -1,0 +1,5 @@
+mehsulunQiymeti=int(input())
+alinacaqMehsullarinSayi=int(input())
+print("Ümumi qiymət:", mehsulunQiymeti * alinacaqMehsullarinSayi)
+pul=int(input())
+print("Qalan pul:", pul - (mehsulunQiymeti * alinacaqMehsullarinSayi))
